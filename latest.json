@@ -1,0 +1,12 @@
+{
+  "version": "0.6.2",
+  "notes": "More reliable updates: three download sources (GitHub, jsDelivr, raw), resumable retries, progress bar and a manual-download fallback.",
+  "url": "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.2/Snipr.exe",
+  "urls": [
+    "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.2/Snipr.exe",
+    "https://cdn.jsdelivr.net/gh/amaivlrt-design/snipr-releases@main/releases/v0.6.2/Snipr.exe",
+    "https://raw.githubusercontent.com/amaivlrt-design/snipr-releases/main/releases/v0.6.2/Snipr.exe"
+  ],
+  "sha256": "540fe419ad31620279a2b51bc417b73690d7f8dd2af62d0b9820802a6778323c",
+  "sig": "0GjIS85zwRSVa4X5vWWlKiaAoopiqjfsFWufdxeZh6ZJnnsflGGaDW9+h1LMUF4u4frb2CZnmPvlBGL2vrAiAw=="
+}
