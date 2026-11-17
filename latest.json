@@ -1,11 +1,11 @@
 {
-  "version": "0.6.2",
-  "notes": "More reliable updates: three download sources (GitHub, jsDelivr, raw), resumable retries, progress bar and a manual-download fallback.",
-  "url": "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.2/Snipr.exe",
+  "version": "0.6.3",
+  "notes": "Block buyers: Snipr ignores their requests completely (no offer, no chat, not counted in stats, Insights, Market or Sniped Orders). Optional Eldorado mute.",
+  "url": "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.3/Snipr.exe",
   "urls": [
-    "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.2/Snipr.exe",
-    "https://raw.githubusercontent.com/amaivlrt-design/snipr-releases/main/releases/v0.6.2/Snipr.exe"
+    "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.3/Snipr.exe",
+    "https://raw.githubusercontent.com/amaivlrt-design/snipr-releases/main/releases/v0.6.3/Snipr.exe"
   ],
-  "sha256": "540fe419ad31620279a2b51bc417b73690d7f8dd2af62d0b9820802a6778323c",
-  "sig": "0GjIS85zwRSVa4X5vWWlKiaAoopiqjfsFWufdxeZh6ZJnnsflGGaDW9+h1LMUF4u4frb2CZnmPvlBGL2vrAiAw=="
+  "sha256": "81632d21eac6ca7a00ae388a063c929323219f33ed3b49ee37e9aabd81a75a66",
+  "sig": "7yeSiSXC48mz1k7RUw6S28BN+fVLFk8WmkhAR9CPvde6H/YhfK2jHks91wEUiWBo7y1rwDkoyMmM+fED6VOUDg=="
 }
