@@ -1,11 +1,11 @@
 {
-  "version": "0.6.3",
-  "notes": "Block buyers: Snipr ignores their requests completely (no offer, no chat, not counted in stats, Insights, Market or Sniped Orders). Optional Eldorado mute.",
-  "url": "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.3/Snipr.exe",
+  "version": "0.6.4",
+  "notes": "Fixes the 429 log spam: request limiter with priority for new requests, pause-and-retry when Eldorado rate-limits (no requests dropped), one log line per pause.",
+  "url": "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.4/Snipr.exe",
   "urls": [
-    "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.3/Snipr.exe",
-    "https://raw.githubusercontent.com/amaivlrt-design/snipr-releases/main/releases/v0.6.3/Snipr.exe"
+    "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.4/Snipr.exe",
+    "https://raw.githubusercontent.com/amaivlrt-design/snipr-releases/main/releases/v0.6.4/Snipr.exe"
   ],
-  "sha256": "81632d21eac6ca7a00ae388a063c929323219f33ed3b49ee37e9aabd81a75a66",
-  "sig": "7yeSiSXC48mz1k7RUw6S28BN+fVLFk8WmkhAR9CPvde6H/YhfK2jHks91wEUiWBo7y1rwDkoyMmM+fED6VOUDg=="
+  "sha256": "5eec8916b2103c28d485beb67780ee598a306298c86adc676cbe2b0fe06947cb",
+  "sig": "KZyTAq8uuGCpzsEtKp5oSvsEZrLLb9+SxEr2bXZNfs0gvhgDo6nrYjcqBfvrOT+CGPbLVvbjUWVsTVjMhGg1DA=="
 }
