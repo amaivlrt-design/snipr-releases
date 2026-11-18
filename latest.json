@@ -1,11 +1,11 @@
 {
-  "version": "0.6.4",
-  "notes": "Fixes the 429 log spam: request limiter with priority for new requests, pause-and-retry when Eldorado rate-limits (no requests dropped), one log line per pause.",
-  "url": "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.4/Snipr.exe",
+  "version": "0.6.5",
+  "notes": "Data safety: daily backups (7 days), broken files fall back to the latest backup instead of defaults, and a clear warning if Snipr is started inside another app's sandbox. Fixes a stray 0 in Recent activity.",
+  "url": "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.5/Snipr.exe",
   "urls": [
-    "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.4/Snipr.exe",
-    "https://raw.githubusercontent.com/amaivlrt-design/snipr-releases/main/releases/v0.6.4/Snipr.exe"
+    "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.5/Snipr.exe",
+    "https://raw.githubusercontent.com/amaivlrt-design/snipr-releases/main/releases/v0.6.5/Snipr.exe"
   ],
-  "sha256": "5eec8916b2103c28d485beb67780ee598a306298c86adc676cbe2b0fe06947cb",
-  "sig": "KZyTAq8uuGCpzsEtKp5oSvsEZrLLb9+SxEr2bXZNfs0gvhgDo6nrYjcqBfvrOT+CGPbLVvbjUWVsTVjMhGg1DA=="
+  "sha256": "5e405f526893c689ad74e040aa8efff85858a283d223c440496024e906e3374f",
+  "sig": "BfdfzrOS7aMivmvnqgRvA8ySC1spx70wrD2xlGGqE1gSQotjcDYLT69k182GVwNi6or4c/VheH7ZQz5zRTFtCQ=="
 }
