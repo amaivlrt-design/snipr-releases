@@ -1,11 +1,11 @@
 {
-  "version": "0.6.5",
-  "notes": "Data safety: daily backups (7 days), broken files fall back to the latest backup instead of defaults, and a clear warning if Snipr is started inside another app's sandbox. Fixes a stray 0 in Recent activity.",
-  "url": "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.5/Snipr.exe",
+  "version": "0.6.6",
+  "notes": "Offer and message delays in seconds (offer delay + random extra, wait before messaging, per-message waits); after a long offer delay Snipr re-checks the request is still open.",
+  "url": "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.6/Snipr.exe",
   "urls": [
-    "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.5/Snipr.exe",
-    "https://raw.githubusercontent.com/amaivlrt-design/snipr-releases/main/releases/v0.6.5/Snipr.exe"
+    "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.6/Snipr.exe",
+    "https://raw.githubusercontent.com/amaivlrt-design/snipr-releases/main/releases/v0.6.6/Snipr.exe"
   ],
-  "sha256": "5e405f526893c689ad74e040aa8efff85858a283d223c440496024e906e3374f",
-  "sig": "BfdfzrOS7aMivmvnqgRvA8ySC1spx70wrD2xlGGqE1gSQotjcDYLT69k182GVwNi6or4c/VheH7ZQz5zRTFtCQ=="
+  "sha256": "ce7f022cb697c3ba8fe9de758a721fb0032475a624e0358dbf4b3ec9809f7696",
+  "sig": "wTp1tsb2A+UBtiLMpsBSuwulUHQIWck9MJw4z2ovzECEYgVvM+yPYJOhmhFAeVKyMVFdOwtg7fipiq8wfOtxCA=="
 }
