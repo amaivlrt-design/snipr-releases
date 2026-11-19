@@ -1,11 +1,11 @@
 {
-  "version": "0.6.6",
-  "notes": "Offer and message delays in seconds (offer delay + random extra, wait before messaging, per-message waits); after a long offer delay Snipr re-checks the request is still open.",
-  "url": "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.6/Snipr.exe",
+  "version": "0.7.0",
+  "notes": "New Coach page: ranked fixes from real winning data (prices, delivery, penny tiers, replies) with one-click apply, A/B experiments for message/offer timing and texts, and market data export/import to share with a friend.",
+  "url": "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.7.0/Snipr.exe",
   "urls": [
-    "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.6.6/Snipr.exe",
-    "https://raw.githubusercontent.com/amaivlrt-design/snipr-releases/main/releases/v0.6.6/Snipr.exe"
+    "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.7.0/Snipr.exe",
+    "https://raw.githubusercontent.com/amaivlrt-design/snipr-releases/main/releases/v0.7.0/Snipr.exe"
   ],
-  "sha256": "ce7f022cb697c3ba8fe9de758a721fb0032475a624e0358dbf4b3ec9809f7696",
-  "sig": "wTp1tsb2A+UBtiLMpsBSuwulUHQIWck9MJw4z2ovzECEYgVvM+yPYJOhmhFAeVKyMVFdOwtg7fipiq8wfOtxCA=="
+  "sha256": "a43dc1122d62856617f95a831484c9e2dbb7ea023fabc9892920357ae2cb6319",
+  "sig": "d2lm8QWS1pd+f4s9tWfdJr5ONBw0WECqfQprBQGU3URcediVfGSuhdbct38uk1d/WZjBH7NX15iV6ObUND9YCA=="
 }
