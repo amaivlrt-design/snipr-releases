@@ -1,11 +1,11 @@
 {
-  "version": "0.7.0",
-  "notes": "New Coach page: ranked fixes from real winning data (prices, delivery, penny tiers, replies) with one-click apply, A/B experiments for message/offer timing and texts, and market data export/import to share with a friend.",
-  "url": "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.7.0/Snipr.exe",
+  "version": "0.7.1",
+  "notes": "Market prices now follow real sales on low ranks (Iron–Diamond were flattened). Chat messages retry when Eldorado answers 409. No more false 'Live feed is down' alarms on Eldorado's routine reconnects. Market 7/30 days/all-time and Insights periods fixed; longer market history.",
+  "url": "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.7.1/Snipr.exe",
   "urls": [
-    "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.7.0/Snipr.exe",
-    "https://raw.githubusercontent.com/amaivlrt-design/snipr-releases/main/releases/v0.7.0/Snipr.exe"
+    "https://github.com/amaivlrt-design/snipr-releases/releases/download/v0.7.1/Snipr.exe",
+    "https://raw.githubusercontent.com/amaivlrt-design/snipr-releases/main/releases/v0.7.1/Snipr.exe"
   ],
-  "sha256": "a43dc1122d62856617f95a831484c9e2dbb7ea023fabc9892920357ae2cb6319",
-  "sig": "d2lm8QWS1pd+f4s9tWfdJr5ONBw0WECqfQprBQGU3URcediVfGSuhdbct38uk1d/WZjBH7NX15iV6ObUND9YCA=="
+  "sha256": "d33a2b0def33019129a3cddf429fd608543f37fbfe1fd00cdcc32885c90f2b80",
+  "sig": "cR91kVOLQpdDHpvpIZrAdl7O1dI7I4eguDAUw6I/RJyz30DgqA5jwfVLEOXlmp1xFy7cq3HDnBuIaDOmMkanCA=="
 }
